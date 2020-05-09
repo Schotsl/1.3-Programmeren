@@ -17,6 +17,8 @@ namespace Opdracht_3
 
             WarCardGame warCardGame = new WarCardGame(playerOne, playerTwo);
             PlayTheGame(warCardGame);
+
+            Console.ReadKey();
         }
 
         void PlayTheGame(WarCardGame warCardGame)
@@ -33,8 +35,6 @@ namespace Opdracht_3
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine($"{winner.name} has won!");
             Console.ResetColor();
-
-            Console.ReadKey();
         }
     }
 }
