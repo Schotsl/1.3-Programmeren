@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opdracht-1", "Opdracht-1\Opdracht-1.csproj", "{E6ADA387-056F-4A6C-9C60-08746AF89843}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opdracht-1", "Opdracht-1\Opdracht-1.csproj", "{E6ADA387-056F-4A6C-9C60-08746AF89843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opdracht-2", "Opdracht-2\Opdracht-2.csproj", "{6E733FBE-F9DD-4956-B333-F9E33B28C613}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opdracht-2", "Opdracht-2\Opdracht-2.csproj", "{6E733FBE-F9DD-4956-B333-F9E33B28C613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opdracht-3", "Opdracht-3\Opdracht-3.csproj", "{5E022D8C-BEC3-4278-A4C1-30E6BA5808C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6E733FBE-F9DD-4956-B333-F9E33B28C613}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E733FBE-F9DD-4956-B333-F9E33B28C613}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E733FBE-F9DD-4956-B333-F9E33B28C613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E022D8C-BEC3-4278-A4C1-30E6BA5808C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E022D8C-BEC3-4278-A4C1-30E6BA5808C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E022D8C-BEC3-4278-A4C1-30E6BA5808C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E022D8C-BEC3-4278-A4C1-30E6BA5808C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

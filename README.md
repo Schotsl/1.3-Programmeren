@@ -1,4 +1,4 @@
-# 1.2-Programmeren
+# 1.3-Programmeren
 
 #### Week 1
 * [Folder](https://github.com/Schotsl/1.3-Programmeren/tree/master/Week-1)
