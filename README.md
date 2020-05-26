@@ -14,3 +14,8 @@
 * [Folder](https://github.com/Schotsl/1.3-Programmeren/tree/master/Week-3)
 * [Opdracht](https://github.com/Schotsl/1.3-Programmeren/blob/master/Week-3/Opdrachten_Programmeren3_week3.pdf)
 * [Powerpoint](https://github.com/Schotsl/1.3-Programmeren/blob/master/Week-3/Presentatie_Programmeren3_week3.pdf)
+
+#### Week 4
+* [Folder](https://github.com/Schotsl/1.3-Programmeren/tree/master/Week-4)
+* [Opdracht](https://github.com/Schotsl/1.3-Programmeren/blob/master/Week-4/Opdrachten_Programmeren3_week4.pdf)
+* [Powerpoint](https://github.com/Schotsl/1.3-Programmeren/blob/master/Week-4/Presentatie_Programmeren3_week4.pdf)
